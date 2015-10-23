@@ -1,1 +1,11 @@
-{"version":"1.0"}
+{
+  "version": "1.0",
+  "supports_up_to": "2.0",
+  "nplist": {
+      "hindi": [
+        {"id": "hn_navbharat_times", "name":"Navbharat Times","lang":"Hindi", "ison": true, "url":"http://navbharattimes.indiatimes.com/rssfeedsdefault.cms","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"},
+        {"id": "hn_jagran", "name":"Jagran","lang":"Hindi", "ison": false, "url":"http://rss.jagran.com/rss/news/national.xml","drft":"dd MMM yyyy HH:mm:ss 'GMT'"},
+        {"id": "hn_dkhaskar", "name":"Bhaskar","lang":"Hindi", "ison": true, "url":"http://www.bhaskar.com/rss-feed/2322/","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"}
+      ]
+  }
+}
