@@ -1,3 +1,27 @@
 {
-  "name": "test"
+  "version": "1.0",
+  "supports_up_to": "2.0",
+  "nplist": {
+      "hindi": [
+        {"id": "hn_navbharat_times", "name":"Navbharat Times","lang":"Hindi", "ison": true, "url":"http://navbharattimes.indiatimes.com/rssfeedsdefault.cms","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"},
+        {"id": "hn_jagran", "name":"Jagran","lang":"Hindi", "ison": false, "url":"http://rss.jagran.com/rss/news/national.xml","drft":"dd MMM yyyy HH:mm:ss 'GMT'"},
+        {"id": "hn_dkhaskar", "name":"Bhaskar","lang":"Hindi", "ison": true, "url":"http://www.bhaskar.com/rss-feed/2322/","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"}
+      ],
+      "marathi": [
+        {"id": "mr_mt", "name":"Maharashtra Times","lang":"Marathi", "ison": true,"url":"http://maharashtratimes.indiatimes.com/rssfeedsdefault.cms", "drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"},
+        {"id": "mr_zee", "name":"Zee News","lang":"Marathi", "ison": true,"url":"http://zeenews.india.com/marathi/rss.aspx","drft":"EEE, MMM dd, yyyy - HH:mm"}
+      ],
+      "bengali": [
+        {"id": "bg_24g", "name":"24Ghanta","lang":"Bengali", "ison": true,"url":"http://zeenews.india.com/bengali/rssfeed/nation.xml","drft":"MM/dd/yyyy HH:mm:ss a 'IST'"}
+      ],
+      "gujarati": [
+        {"id": "gj_sandesh", "name":"Sandesh","lang":"Gujarati", "ison": true,"url":"http://www.sandesh.com/cms/xml/National.xml","drft":"MM/DD/yyyy HH:mm:ss a 'IST'"}
+      ],
+      "kannada": [
+        {"id": "kd_prabha", "name":"Kannada Prabha","lang":"Kannada", "ison": true,"url":"http://www.kannadaprabha.com/rss/kannada-nation-4.xml","drft":"MMM dd yyyy HH:mma"}
+      ],
+      "telugu": [
+        {"id": "tg_kommineni", "name":"Kommineni","lang":"Telugu", "ison": true,"url":"http://feeds.feedburner.com/KommineniInfo?format=xml","drft":"yyyyMMdd HH:mm:ss"}
+      ]
+  }
 }
