@@ -8,13 +8,13 @@
         {"id": "hn_dkhaskar", "name":"Bhaskar","lang":"Hindi", "ison": true, "url":"http://www.bhaskar.com/rss-feed/2322/","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"}
       ],
       "marathi": [
-		    {"id":"mr_mt","name":"Maharashtra Times","lang":"Marathi","ison":true,"url":"http://maharashtratimes.indiatimes.com/rssfeedsdefault.cms","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"},
-		    {"id":"mr_zee","name":"Zee News","lang":"Marathi","ison":true,"url":"http://zeenews.india.com/marathi/rss.aspx","drft":"EEE, MMM dd, yyyy - HH:mm"},
-		    {"id":"mr_saamana","name":"Saamana","lang":"Marathi","ison":true,"url":"http://www.saamana.com/feed","drft":"EEE, dd MMM yyyy HH:mm:ss Z"},
-		    {"id":"mr_divyam","name":"Divya Marathi","lang":"Marathi","ison": false,"url":"http://divyamarathi.bhaskar.com/rss-feed/5489/","drft":"yyyy-MM-dd HH:mm:ss"},
-		    {"id":"mr_lokmat","name":"Lokmat","lang":"Marathi","ison":true,"url":"http://www.lokmat.com/feeds.php?news=1","drft":"EEE, MMM dd, yyyy - HH:mm"},
-		    {"id":"mr_prahar","name":"Prahar","lang":"Marathi","ison":true,"url":"http://prahaar.in/category/latestnews/feed","drft":"EEE, dd MMM yyyy HH:mm:ss Z"}
-	    ],
+      	{"id":"mr_mt","name":"Maharashtra Times","lang":"Marathi","ison":true,"url":"http://maharashtratimes.indiatimes.com/rssfeedsdefault.cms","drft":"EEE,dd MMM yyyy HH:mm:ss 'GMT'"},
+      	{"id":"mr_zee","name":"Zee News","lang":"Marathi","ison":true,"url":"http://zeenews.india.com/marathi/rss.aspx","drft":"EEE, MMM dd, yyyy - HH:mm"},
+      	{"id":"mr_saamana","name":"Saamana","lang":"Marathi","ison":true,"url":"http://www.saamana.com/feed","drft":"EEE, dd MMM yyyy HH:mm:ss Z"},
+      	{"id":"mr_divyam","name":"Divya Marathi","lang":"Marathi","ison": false,"url":"http://divyamarathi.bhaskar.com/rss-feed/5489/","drft":"yyyy-MM-dd HH:mm:ss"},
+      	{"id":"mr_lokmat","name":"Lokmat","lang":"Marathi","ison":true,"url":"http://www.lokmat.com/feeds.php?news=1","drft":"EEE, MMM dd, yyyy - HH:mm"},
+      	{"id":"mr_prahar","name":"Prahar","lang":"Marathi","ison":true,"url":"http://prahaar.in/category/latestnews/feed","drft":"EEE, dd MMM yyyy HH:mm:ss Z"}
+     ],
       "bengali": [
         {"id": "bg_24g", "name":"24Ghanta","lang":"Bengali", "ison": true,"url":"http://zeenews.india.com/bengali/rssfeed/nation.xml","drft":"MM/dd/yyyy HH:mm:ss a 'IST'"}
       ],
