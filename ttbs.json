@@ -1,34 +1,36 @@
-[
-	{
-		"route": "Miraj - Sangli",
-		"start_pt": "Miraj",
-		"end_pt": "Sangli",
-		"route_id": "12",
-		"in_time": "12:15",
-		"next_in_time": "12:25"
-	},
-	{
-		"route": "Miraj - Kupwad",
-		"start_pt": "Miraj",
-		"end_pt": "Kupwad",
-		"route_id": "18",
-		"in_time": "12:35",
-		"next_in_time": "12:38"
-	},
-	{
-		"route": "Miraj - Maishal",
-		"start_pt": "Miraj",
-		"end_pt": "Maishal",
-		"route_id": "9",
-		"in_time": "12:25",
-		"next_in_time": "12:55"
-	},
-	{
-		"route": "Miraj - Malgaon",
-		"start_pt": "Miraj",
-		"end_pt": "Malgaon",
-		"route_id": "12",
-		"in_time": "12:18",
-		"next_in_time": "12:25"
-	}	
-]
+{
+	"paths": [
+		{
+			"route": "Miraj - Sangli",
+			"start_pt": "Miraj",
+			"end_pt": "Sangli",
+			"route_id": "12",
+			"in_time": "12:15",
+			"next_in_time": "12:25"
+		},
+		{
+			"route": "Miraj - Kupwad",
+			"start_pt": "Miraj",
+			"end_pt": "Kupwad",
+			"route_id": "18",
+			"in_time": "12:35",
+			"next_in_time": "12:38"
+		},
+		{
+			"route": "Miraj - Maishal",
+			"start_pt": "Miraj",
+			"end_pt": "Maishal",
+			"route_id": "9",
+			"in_time": "12:25",
+			"next_in_time": "12:55"
+		},
+		{
+			"route": "Miraj - Malgaon",
+			"start_pt": "Miraj",
+			"end_pt": "Malgaon",
+			"route_id": "12",
+			"in_time": "12:18",
+			"next_in_time": "12:25"
+		}	
+	]
+}
