@@ -1,5 +1,5 @@
 {
-  "version": "1.0.02",
+  "version": "1.0.03",
   "isShowAds": "0",
   "supports_up_to": "2.0",
   "nplist": {
@@ -28,6 +28,9 @@
       ],
       "telugu": [
         {"id": "tg_kommineni", "name":"Kommineni","lang":"Telugu", "ison": true,"url":"http://feeds.feedburner.com/KommineniInfo?format=xml","drft":"yyyyMMdd HH:mm:ss"}
-      ]
+      ],
+      "": [
+        {"id": "ml_mathrubhumi", "name":"Mathrubhumi","lang":"Malayala", "ison": true,"url":"http://feeds.feedburner.com/mathrubhumi","drft":"yyyyMMdd HH:mm:ss"}
+      ],
   }
 }
