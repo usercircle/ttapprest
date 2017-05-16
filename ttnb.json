@@ -1,5 +1,5 @@
 {
-	"version": "1.0.03",
+	"version": "1.0.04",
 	"isShowAds": "0",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -67,6 +67,14 @@
 				"ison": false,
 				"url": "http://divyamarathi.bhaskar.com/rss-feed/5489/",
 				"drft": "yyyy-MM-dd HH:mm:ss"
+			},
+			{
+				"id": "mr_sakal",
+				"name": "Sakal",
+				"lang": "Marathi",
+				"ison": true,
+				"url": "http://www.esakal.com/c03_feeds.xml",
+				"drft": "EEE, dd MMM yyyy HH:mm:ss Z"
 			},
 			{
 				"id": "mr_lokmat",
