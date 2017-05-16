@@ -28,9 +28,6 @@
       ],
       "telugu": [
         {"id": "tg_kommineni", "name":"Kommineni","lang":"Telugu", "ison": true,"url":"http://feeds.feedburner.com/KommineniInfo?format=xml","drft":"yyyyMMdd HH:mm:ss"}
-      ],
-      "malayala": [
-        {"id": "ml_mathrubhumi", "name":"Mathrubhumi","lang":"Malayala", "ison": true,"url":"http://feeds.feedburner.com/mathrubhumi","drft":"yyyyMMdd HH:mm:ss"}
-      ],
+      ]
   }
 }
