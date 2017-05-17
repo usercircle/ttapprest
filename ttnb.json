@@ -1,6 +1,6 @@
 {
-	"version": "1.0.04",
-	"isShowAds": "0",
+	"version": "1.0.05",
+	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
 		"hindi": [{
@@ -23,7 +23,7 @@
 				"id": "hn_dkhaskar",
 				"name": "Bhaskar",
 				"lang": "Hindi",
-				"ison": true,
+				"ison": false,
 				"url": "http://www.bhaskar.com/rss-feed/2322/",
 				"drft": "EEE,dd MMM yyyy HH:mm:ss 'GMT'"
 			},
@@ -125,10 +125,10 @@
 			"url": "http://feeds.feedburner.com/KommineniInfo?format=xml",
 			"drft": "yyyyMMdd HH:mm:ss"
 		}],
-		"malayala": [{
+		"malayalam": [{
 			"id": "ml_mathrubhumi",
 			"name": "Mathrubhumi",
-			"lang": "Malayala",
+			"lang": "Malayalam",
 			"ison": true,
 			"url": "http://feeds.feedburner.com/mathrubhumi",
 			"drft": "yyyyMMdd HH:mm:ss"
