@@ -1,5 +1,5 @@
 {
-	"version": "1.0.08",
+	"version": "1.0.09",
 	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -139,7 +139,7 @@
 			"lang": "Oria",
 			"ison": true,
 			"url": "http://sambad.in/feed.aspx?cat_id=2",
-			"drft": "EEE, dd MMM yyyy HH:mm:ss Z"
+			"drft": "EEE, dd MMM yyyy HH:mm:ss 'GMT'"
 		}]
 	}
 }
