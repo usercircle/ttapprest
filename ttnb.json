@@ -1,5 +1,5 @@
 {
-	"version": "1.0.07",
+	"version": "1.0.08",
 	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -132,6 +132,14 @@
 			"ison": true,
 			"url": "http://feeds.feedburner.com/mathrubhumi",
 			"drft": "yyyyMMdd HH:mm:ss"
+		}],
+		"odia": [{
+			"id": "odia_sambad",
+			"name": "Sambad",
+			"lang": "Oria",
+			"ison": true,
+			"url": "http://sambad.in/feed.aspx?cat_id=2",
+			"drft": "EEE, dd MMM yyyy HH:mm:ss Z"
 		}]
 	}
 }
