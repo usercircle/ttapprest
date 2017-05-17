@@ -1,5 +1,5 @@
 {
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -23,7 +23,7 @@
 				"id": "hn_dkhaskar",
 				"name": "Bhaskar",
 				"lang": "Hindi",
-				"ison": true,
+				"ison": false,
 				"url": "http://www.bhaskar.com/rss-feed/2322/",
 				"drft": "EEE,dd MMM yyyy HH:mm:ss 'GMT'"
 			},
