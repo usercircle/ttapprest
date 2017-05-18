@@ -1,5 +1,5 @@
 {
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -41,7 +41,7 @@
 				"name": "Maharashtra Times",
 				"lang": "Marathi",
 				"ison": true,
-				"url": "http://maharashtratimes.indiatimes.com/rssfeedsdefault.cms",
+				"url": "http://maharashtratimes.indiatimes.com/rssfeedstopstories.cms",
 				"drft": "EEE,dd MMM yyyy HH:mm:ss 'GMT'"
 			},
 			{
