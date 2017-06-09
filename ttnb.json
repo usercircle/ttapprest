@@ -1,6 +1,6 @@
 {
-	"version": "1.0.16",
-	"isShowAds": "0",
+	"version": "1.0.17",
+	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
 		"hindi": [{
@@ -91,6 +91,15 @@
 				"ison": true,
 				"url": "http://prahaar.in/category/latestnews/feed",
 				"drft": "EEE, dd MMM yyyy HH:mm:ss Z"
+			},
+			{
+				"id": "mr_pudhari",
+				"name": "Pudhari",
+				"lang": "Marathi",
+				"ison": true,
+				"url": "http://www.pudhari.news/",
+				"drft": "EEE, dd MMM yyyy HH:mm:ss Z",
+				"webMode": true
 			}
 		],
 		"bengali": [{
