@@ -8,7 +8,7 @@
 			
       			{
         			"q": "I  found, I liked, and I read till  I knew them. (Figures of Speech)",
-        			"a": 1,
+        			"a": 0,
         			"o": ["climax", "anticlimax", "tautology", "metaphor"]
       			},
                 	{
@@ -18,17 +18,17 @@
       			},
                 	{
         			"q": "I’m forgetting the one who read tale after tale. (Figures of Speech)",
-        			"a": 1,
+        			"a": 0,
         			"o": ["repetition", "climax", "anticlimax", "None of these"]
       			},
                 	{
         			"q": "It had a grave look that frightened the kids. (Clauses)",
-        			"a": 1,
+        			"a": 2,
         			"o": ["Adjective clause", "Noun clause", "Adverb clause", "None of these"]
       			},
                 	{
         			"q": "And ran with all his mind and might (Figures of Speech)",
-        			"a": 1,
+        			"a": 2,
         			"o": ["inversion", "tautology", "hyperbole", "climax"]
       			},
                 	{
@@ -38,17 +38,17 @@
       			},
                 	{
         			"q": "For the master spirit of the earth shall not sleep peacefully. (Figures of Speech)",
-        			"a": 1,
+        			"a": 2,
         			"o": ["antithesis", "metaphor", "personification", "None of these"]
       			},
                 	{
         			"q": "Unless you go to school, you won’t become wise. (Clauses)",
-        			"a": 1,
+        			"a": 2,
         			"o": ["Adjective clause", "Noun clause", "Adverb clause", "None of these"]
       			},
                 	{
         			"q": "I did jumping jacks and sits up! Went out and bought that clam machine. (Figures of Speech)",
-        			"a": 1,
+        			"a": 0,
         			"o": ["climax", "metaphor", "personification", "None of these"]
       			},
                 	{
