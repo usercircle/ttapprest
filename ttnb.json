@@ -130,7 +130,7 @@
 			"id": "tg_kommineni",
 			"name": "Kommineni",
 			"lang": "Telugu",
-			"ison": true,
+			"ison": false,
 			"url": "http://feeds.feedburner.com/KommineniInfo?format=xml",
 			"drft": "yyyyMMdd HH:mm:ss"
 		}],
