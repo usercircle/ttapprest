@@ -1,5 +1,5 @@
 {
-	"version": "1.0.21",
+	"version": "1.0.22",
 	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -56,7 +56,7 @@
 				"id": "mr_saamana",
 				"name": "Saamana",
 				"lang": "Marathi",
-				"ison": false,
+				"ison": true,
 				"url": "http://www.saamana.com/",
 				"drft": "EEE, dd MMM yyyy HH:mm:ss Z",
 				"webMode": true
