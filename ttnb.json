@@ -1,5 +1,5 @@
 {
-	"version": "1.0.19",
+	"version": "1.0.20",
 	"isShowAds": "1",
 	"supports_up_to": "2.0",
 	"nplist": {
@@ -41,7 +41,7 @@
 				"name": "Maharashtra Times",
 				"lang": "Marathi",
 				"ison": true,
-				"url": "http://maharashtratimes.indiatimes.com/rssfeedstopstories.cms",
+				"url": "https://maharashtratimes.indiatimes.com/rssfeedstopstories.cms",
 				"drft": "EEE,dd MMM yyyy HH:mm:ss 'GMT'"
 			},
 			{
@@ -49,7 +49,7 @@
 				"name": "Zee News",
 				"lang": "Marathi",
 				"ison": true,
-				"url": "http://zeenews.india.com/marathi/rss.aspx",
+				"url": "http://zeenews.india.com/marathi/rss/maharashtra-news.xml",
 				"drft": "EEE, MMM dd, yyyy - HH:mm"
 			},
 			{
@@ -57,8 +57,9 @@
 				"name": "Saamana",
 				"lang": "Marathi",
 				"ison": false,
-				"url": "http://www.saamana.com/feed",
-				"drft": "EEE, dd MMM yyyy HH:mm:ss Z"
+				"url": "http://www.saamana.com/",
+				"drft": "EEE, dd MMM yyyy HH:mm:ss Z",
+				"webMode": true
 			},
 			{
 				"id": "mr_divyam",
@@ -73,7 +74,7 @@
 				"name": "Sakal",
 				"lang": "Marathi",
 				"ison": true,
-				"url": "http://www.esakal.com/c03_feeds.xml",
+				"url": "http://www.esakal.com/c03-feeds.xml",
 				"drft": "EEE, dd MMM yyyy HH:mm:ss Z"
 			},
 			{
@@ -81,8 +82,9 @@
 				"name": "Lokmat",
 				"lang": "Marathi",
 				"ison": true,
-				"url": "http://www.lokmat.com/feeds.php?news=1",
-				"drft": "EEE, MMM dd, yyyy - HH:mm"
+				"url": "http://m.lokmat.com/",
+				"drft": "EEE, MMM dd, yyyy - HH:mm",
+				"webMode": true
 			},
 			{
 				"id": "mr_prahar",
