@@ -146,7 +146,7 @@
 			"id": "odia_sambad",
 			"name": "Sambad",
 			"lang": "Oria",
-			"ison": true,
+			"ison": false,
 			"url": "http://sambad.in/feed.aspx?cat_id=2",
 			"drft": "EEE, dd MMM yyyy HH:mm:ss 'GMT'"
 		}]
